@@ -55,7 +55,8 @@ def loadPage(db,url):
   if p:
     processedto_time=p[0]-86400;
   else:
-    exit("Missing processed_to time")
+    print("Missing processed_to time. Working back to the start of time")
+    processedto_time=0;
   count = 0
   while True:
     # delay
