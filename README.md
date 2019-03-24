@@ -2,7 +2,7 @@
 Archive posts to a Facebook page - you must be an admin or be able to get a page access token
 
 Inspired by the following article:
-https://hackernoon.com/graphapi-get-query-fetch-public-facebook-page-feed-3-ste$
+https://hackernoon.com/graphapi-get-query-fetch-public-facebook-page-feed-3-step-tutorial-example-access-token-auth-post-d7403c717fbf
 
 Requirements:
 python2
