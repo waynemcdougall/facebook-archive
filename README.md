@@ -18,6 +18,6 @@ The default page access token only lasts about 2 hours. You can get a token that
 
 Usage:
 
-python2 facebook-archive <Graph-ID>
+python2 facebook-archive \<Graph-ID\>
   
   
